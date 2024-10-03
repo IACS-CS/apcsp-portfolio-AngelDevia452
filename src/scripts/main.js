@@ -7,6 +7,10 @@ if (typeof window !== "undefined") {
   // Put code that runs ONLY in the browser here -- this is most likely where
   // MOST of your code should go.
   //
+  Aos.init();
   // If you see a SSR error, try moving your code here!
   console.log("Hello world, browser :-)");
 }
+import "@picocss/pico/css/pico.min.css";
+import Aos from "aos";
+import "aos/dist/aos.css";

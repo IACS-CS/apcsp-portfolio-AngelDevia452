@@ -30,12 +30,6 @@ import "@picocss/pico/css/pico.min.css";
 
 You can now use PicoCSS classes in your HTML files. For example, to center your content and set a reasonable width:
 
-```html
-<main class="container">
-  <!-- Your content here -->
-</main>
-```
-
 **Reference:** [PicoCSS Documentation](https://picocss.com/docs/container)
 
 ---
