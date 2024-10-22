@@ -14,4 +14,3 @@ if (typeof window !== "undefined") {
   // If you see a SSR error, try moving your code here!
   console.log("Hello world, browser :-)");
 }
-
